@@ -35,6 +35,6 @@ If you have any feedback or query , please reach out to me at *eshasaeed914@gmai
 
 ### 🔗 Link
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eshasaeed)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/eshasaeed)
 
 
